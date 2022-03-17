@@ -1,3 +1,6 @@
+import numpy as np
+import cv2
+
 # float画像をjetで保存
 def jet(img):
     img_norm = np.zeros_like(img)
