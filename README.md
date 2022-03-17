@@ -1,8 +1,7 @@
 # pyshreds
  
-This package contains small functions 
-They are like shreds 
-  
+This package contains small functions which are like triviaal shreds.
+
 # Requirement
  
 The following packages are required. 
